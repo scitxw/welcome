@@ -9,7 +9,7 @@ public class Welcome
    {
       String greeting = "Welcome to Core Java!";
       System.out.println(greeting);
-//add something
+//remote test
       for (int i = 0; i < greeting.length(); i++)
          System.out.print("=");
       System.out.println();
